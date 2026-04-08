@@ -1,0 +1,5512 @@
+{
+  "Baby": [
+    {
+      "question": "What type is Pikachu? (baby #1)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 1
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #2)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 2
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #3)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 3
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #4)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 4
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #5)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 5
+    },
+    {
+      "question": "What type is Pikachu? (baby #6)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 6
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #7)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 7
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #8)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 8
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #9)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 9
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #10)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 10
+    },
+    {
+      "question": "What type is Pikachu? (baby #11)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 11
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #12)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 12
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #13)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 13
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #14)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 14
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #15)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 15
+    },
+    {
+      "question": "What type is Pikachu? (baby #16)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 16
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #17)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 17
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #18)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 18
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #19)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 19
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #20)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 20
+    },
+    {
+      "question": "What type is Pikachu? (baby #21)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 21
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #22)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 22
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #23)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 23
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #24)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 24
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #25)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 25
+    },
+    {
+      "question": "What type is Pikachu? (baby #26)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 26
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #27)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 27
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #28)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 28
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #29)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 29
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #30)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 30
+    },
+    {
+      "question": "What type is Pikachu? (baby #31)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 31
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #32)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 32
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #33)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 33
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #34)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 34
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #35)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 35
+    },
+    {
+      "question": "What type is Pikachu? (baby #36)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 36
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #37)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 37
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #38)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 38
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #39)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 39
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #40)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 40
+    },
+    {
+      "question": "What type is Pikachu? (baby #41)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 41
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #42)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 42
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #43)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 43
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #44)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 44
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #45)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 45
+    },
+    {
+      "question": "What type is Pikachu? (baby #46)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 46
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #47)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 47
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #48)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 48
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #49)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 49
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #50)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 50
+    },
+    {
+      "question": "What type is Pikachu? (baby #51)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 51
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #52)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 52
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #53)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 53
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #54)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 54
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #55)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 55
+    },
+    {
+      "question": "What type is Pikachu? (baby #56)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 56
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #57)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 57
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #58)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 58
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #59)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 59
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #60)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 60
+    },
+    {
+      "question": "What type is Pikachu? (baby #61)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 61
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #62)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 62
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #63)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 63
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #64)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 64
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #65)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 65
+    },
+    {
+      "question": "What type is Pikachu? (baby #66)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 66
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #67)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 67
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #68)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 68
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #69)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 69
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #70)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 70
+    },
+    {
+      "question": "What type is Pikachu? (baby #71)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 71
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #72)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 72
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #73)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 73
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #74)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 74
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #75)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 75
+    },
+    {
+      "question": "What type is Pikachu? (baby #76)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 76
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #77)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 77
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #78)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 78
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #79)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 79
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #80)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 80
+    },
+    {
+      "question": "What type is Pikachu? (baby #81)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 81
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #82)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 82
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #83)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 83
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #84)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 84
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #85)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 85
+    },
+    {
+      "question": "What type is Pikachu? (baby #86)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 86
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #87)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 87
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #88)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 88
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #89)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 89
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #90)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 90
+    },
+    {
+      "question": "What type is Pikachu? (baby #91)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 91
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #92)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 92
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #93)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 93
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #94)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 94
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #95)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 95
+    },
+    {
+      "question": "What type is Pikachu? (baby #96)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 96
+    },
+    {
+      "question": "Who evolves into Charizard? (baby #97)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 97
+    },
+    {
+      "question": "Which Pokémon is Water type? (baby #98)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 98
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (baby #99)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 99
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (baby #100)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 100
+    }
+  ],
+  "Easy": [
+    {
+      "question": "What type is Pikachu? (easy #1)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 1
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #2)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 2
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #3)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 3
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #4)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 4
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #5)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 5
+    },
+    {
+      "question": "What type is Pikachu? (easy #6)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 6
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #7)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 7
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #8)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 8
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #9)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 9
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #10)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 10
+    },
+    {
+      "question": "What type is Pikachu? (easy #11)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 11
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #12)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 12
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #13)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 13
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #14)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 14
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #15)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 15
+    },
+    {
+      "question": "What type is Pikachu? (easy #16)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 16
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #17)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 17
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #18)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 18
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #19)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 19
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #20)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 20
+    },
+    {
+      "question": "What type is Pikachu? (easy #21)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 21
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #22)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 22
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #23)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 23
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #24)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 24
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #25)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 25
+    },
+    {
+      "question": "What type is Pikachu? (easy #26)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 26
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #27)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 27
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #28)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 28
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #29)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 29
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #30)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 30
+    },
+    {
+      "question": "What type is Pikachu? (easy #31)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 31
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #32)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 32
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #33)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 33
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #34)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 34
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #35)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 35
+    },
+    {
+      "question": "What type is Pikachu? (easy #36)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 36
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #37)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 37
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #38)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 38
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #39)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 39
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #40)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 40
+    },
+    {
+      "question": "What type is Pikachu? (easy #41)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 41
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #42)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 42
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #43)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 43
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #44)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 44
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #45)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 45
+    },
+    {
+      "question": "What type is Pikachu? (easy #46)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 46
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #47)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 47
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #48)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 48
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #49)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 49
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #50)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 50
+    },
+    {
+      "question": "What type is Pikachu? (easy #51)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 51
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #52)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 52
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #53)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 53
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #54)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 54
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #55)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 55
+    },
+    {
+      "question": "What type is Pikachu? (easy #56)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 56
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #57)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 57
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #58)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 58
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #59)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 59
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #60)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 60
+    },
+    {
+      "question": "What type is Pikachu? (easy #61)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 61
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #62)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 62
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #63)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 63
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #64)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 64
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #65)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 65
+    },
+    {
+      "question": "What type is Pikachu? (easy #66)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 66
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #67)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 67
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #68)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 68
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #69)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 69
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #70)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 70
+    },
+    {
+      "question": "What type is Pikachu? (easy #71)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 71
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #72)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 72
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #73)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 73
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #74)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 74
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #75)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 75
+    },
+    {
+      "question": "What type is Pikachu? (easy #76)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 76
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #77)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 77
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #78)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 78
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #79)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 79
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #80)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 80
+    },
+    {
+      "question": "What type is Pikachu? (easy #81)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 81
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #82)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 82
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #83)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 83
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #84)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 84
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #85)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 85
+    },
+    {
+      "question": "What type is Pikachu? (easy #86)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 86
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #87)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 87
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #88)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 88
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #89)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 89
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #90)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 90
+    },
+    {
+      "question": "What type is Pikachu? (easy #91)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 91
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #92)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 92
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #93)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 93
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #94)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 94
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #95)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 95
+    },
+    {
+      "question": "What type is Pikachu? (easy #96)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 96
+    },
+    {
+      "question": "Who evolves into Charizard? (easy #97)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 97
+    },
+    {
+      "question": "Which Pokémon is Water type? (easy #98)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 98
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (easy #99)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 99
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (easy #100)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 100
+    }
+  ],
+  "Medium": [
+    {
+      "question": "What type is Pikachu? (medium #1)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 1
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #2)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 2
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #3)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 3
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #4)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 4
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #5)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 5
+    },
+    {
+      "question": "What type is Pikachu? (medium #6)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 6
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #7)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 7
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #8)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 8
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #9)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 9
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #10)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 10
+    },
+    {
+      "question": "What type is Pikachu? (medium #11)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 11
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #12)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 12
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #13)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 13
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #14)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 14
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #15)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 15
+    },
+    {
+      "question": "What type is Pikachu? (medium #16)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 16
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #17)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 17
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #18)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 18
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #19)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 19
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #20)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 20
+    },
+    {
+      "question": "What type is Pikachu? (medium #21)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 21
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #22)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 22
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #23)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 23
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #24)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 24
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #25)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 25
+    },
+    {
+      "question": "What type is Pikachu? (medium #26)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 26
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #27)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 27
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #28)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 28
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #29)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 29
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #30)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 30
+    },
+    {
+      "question": "What type is Pikachu? (medium #31)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 31
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #32)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 32
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #33)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 33
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #34)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 34
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #35)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 35
+    },
+    {
+      "question": "What type is Pikachu? (medium #36)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 36
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #37)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 37
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #38)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 38
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #39)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 39
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #40)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 40
+    },
+    {
+      "question": "What type is Pikachu? (medium #41)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 41
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #42)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 42
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #43)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 43
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #44)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 44
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #45)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 45
+    },
+    {
+      "question": "What type is Pikachu? (medium #46)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 46
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #47)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 47
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #48)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 48
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #49)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 49
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #50)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 50
+    },
+    {
+      "question": "What type is Pikachu? (medium #51)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 51
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #52)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 52
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #53)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 53
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #54)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 54
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #55)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 55
+    },
+    {
+      "question": "What type is Pikachu? (medium #56)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 56
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #57)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 57
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #58)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 58
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #59)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 59
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #60)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 60
+    },
+    {
+      "question": "What type is Pikachu? (medium #61)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 61
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #62)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 62
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #63)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 63
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #64)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 64
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #65)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 65
+    },
+    {
+      "question": "What type is Pikachu? (medium #66)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 66
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #67)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 67
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #68)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 68
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #69)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 69
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #70)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 70
+    },
+    {
+      "question": "What type is Pikachu? (medium #71)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 71
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #72)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 72
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #73)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 73
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #74)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 74
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #75)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 75
+    },
+    {
+      "question": "What type is Pikachu? (medium #76)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 76
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #77)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 77
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #78)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 78
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #79)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 79
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #80)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 80
+    },
+    {
+      "question": "What type is Pikachu? (medium #81)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 81
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #82)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 82
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #83)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 83
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #84)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 84
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #85)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 85
+    },
+    {
+      "question": "What type is Pikachu? (medium #86)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 86
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #87)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 87
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #88)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 88
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #89)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 89
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #90)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 90
+    },
+    {
+      "question": "What type is Pikachu? (medium #91)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 91
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #92)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 92
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #93)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 93
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #94)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 94
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #95)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 95
+    },
+    {
+      "question": "What type is Pikachu? (medium #96)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 96
+    },
+    {
+      "question": "Who evolves into Charizard? (medium #97)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 97
+    },
+    {
+      "question": "Which Pokémon is Water type? (medium #98)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 98
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (medium #99)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 99
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (medium #100)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 100
+    }
+  ],
+  "Hard": [
+    {
+      "question": "What type is Pikachu? (hard #1)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 1
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #2)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 2
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #3)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 3
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #4)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 4
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #5)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 5
+    },
+    {
+      "question": "What type is Pikachu? (hard #6)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 6
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #7)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 7
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #8)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 8
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #9)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 9
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #10)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 10
+    },
+    {
+      "question": "What type is Pikachu? (hard #11)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 11
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #12)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 12
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #13)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 13
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #14)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 14
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #15)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 15
+    },
+    {
+      "question": "What type is Pikachu? (hard #16)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 16
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #17)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 17
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #18)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 18
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #19)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 19
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #20)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 20
+    },
+    {
+      "question": "What type is Pikachu? (hard #21)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 21
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #22)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 22
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #23)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 23
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #24)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 24
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #25)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 25
+    },
+    {
+      "question": "What type is Pikachu? (hard #26)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 26
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #27)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 27
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #28)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 28
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #29)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 29
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #30)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 30
+    },
+    {
+      "question": "What type is Pikachu? (hard #31)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 31
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #32)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 32
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #33)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 33
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #34)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 34
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #35)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 35
+    },
+    {
+      "question": "What type is Pikachu? (hard #36)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 36
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #37)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 37
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #38)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 38
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #39)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 39
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #40)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 40
+    },
+    {
+      "question": "What type is Pikachu? (hard #41)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 41
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #42)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 42
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #43)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 43
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #44)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 44
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #45)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 45
+    },
+    {
+      "question": "What type is Pikachu? (hard #46)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 46
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #47)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 47
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #48)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 48
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #49)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 49
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #50)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 50
+    },
+    {
+      "question": "What type is Pikachu? (hard #51)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 51
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #52)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 52
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #53)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 53
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #54)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 54
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #55)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 55
+    },
+    {
+      "question": "What type is Pikachu? (hard #56)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 56
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #57)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 57
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #58)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 58
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #59)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 59
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #60)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 60
+    },
+    {
+      "question": "What type is Pikachu? (hard #61)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 61
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #62)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 62
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #63)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 63
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #64)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 64
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #65)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 65
+    },
+    {
+      "question": "What type is Pikachu? (hard #66)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 66
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #67)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 67
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #68)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 68
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #69)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 69
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #70)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 70
+    },
+    {
+      "question": "What type is Pikachu? (hard #71)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 71
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #72)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 72
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #73)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 73
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #74)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 74
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #75)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 75
+    },
+    {
+      "question": "What type is Pikachu? (hard #76)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 76
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #77)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 77
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #78)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 78
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #79)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 79
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #80)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 80
+    },
+    {
+      "question": "What type is Pikachu? (hard #81)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 81
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #82)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 82
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #83)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 83
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #84)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 84
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #85)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 85
+    },
+    {
+      "question": "What type is Pikachu? (hard #86)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 86
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #87)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 87
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #88)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 88
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #89)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 89
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #90)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 90
+    },
+    {
+      "question": "What type is Pikachu? (hard #91)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 91
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #92)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 92
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #93)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 93
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #94)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 94
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #95)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 95
+    },
+    {
+      "question": "What type is Pikachu? (hard #96)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 96
+    },
+    {
+      "question": "Who evolves into Charizard? (hard #97)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 97
+    },
+    {
+      "question": "Which Pokémon is Water type? (hard #98)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 98
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (hard #99)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 99
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (hard #100)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 100
+    }
+  ],
+  "Legend": [
+    {
+      "question": "What type is Pikachu? (legend #1)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 1
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #2)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 2
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #3)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 3
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #4)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 4
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #5)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 5
+    },
+    {
+      "question": "What type is Pikachu? (legend #6)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 6
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #7)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 7
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #8)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 8
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #9)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 9
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #10)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 10
+    },
+    {
+      "question": "What type is Pikachu? (legend #11)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 11
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #12)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 12
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #13)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 13
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #14)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 14
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #15)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 15
+    },
+    {
+      "question": "What type is Pikachu? (legend #16)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 16
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #17)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 17
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #18)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 18
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #19)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 19
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #20)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 20
+    },
+    {
+      "question": "What type is Pikachu? (legend #21)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 21
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #22)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 22
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #23)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 23
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #24)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 24
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #25)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 25
+    },
+    {
+      "question": "What type is Pikachu? (legend #26)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 26
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #27)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 27
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #28)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 28
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #29)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 29
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #30)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 30
+    },
+    {
+      "question": "What type is Pikachu? (legend #31)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 31
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #32)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 32
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #33)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 33
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #34)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 34
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #35)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 35
+    },
+    {
+      "question": "What type is Pikachu? (legend #36)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 36
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #37)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 37
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #38)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 38
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #39)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 39
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #40)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 40
+    },
+    {
+      "question": "What type is Pikachu? (legend #41)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 41
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #42)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 42
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #43)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 43
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #44)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 44
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #45)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 45
+    },
+    {
+      "question": "What type is Pikachu? (legend #46)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 46
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #47)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 47
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #48)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 48
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #49)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 49
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #50)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 50
+    },
+    {
+      "question": "What type is Pikachu? (legend #51)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 51
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #52)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 52
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #53)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 53
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #54)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 54
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #55)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 55
+    },
+    {
+      "question": "What type is Pikachu? (legend #56)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 56
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #57)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 57
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #58)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 58
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #59)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 59
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #60)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 60
+    },
+    {
+      "question": "What type is Pikachu? (legend #61)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 61
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #62)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 62
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #63)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 63
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #64)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 64
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #65)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 65
+    },
+    {
+      "question": "What type is Pikachu? (legend #66)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 66
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #67)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 67
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #68)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 68
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #69)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 69
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #70)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 70
+    },
+    {
+      "question": "What type is Pikachu? (legend #71)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 71
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #72)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 72
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #73)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 73
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #74)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 74
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #75)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 75
+    },
+    {
+      "question": "What type is Pikachu? (legend #76)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 76
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #77)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 77
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #78)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 78
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #79)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 79
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #80)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 80
+    },
+    {
+      "question": "What type is Pikachu? (legend #81)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 81
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #82)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 82
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #83)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 83
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #84)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 84
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #85)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 85
+    },
+    {
+      "question": "What type is Pikachu? (legend #86)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 86
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #87)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 87
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #88)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 88
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #89)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 89
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #90)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 90
+    },
+    {
+      "question": "What type is Pikachu? (legend #91)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 91
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #92)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 92
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #93)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 93
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #94)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 94
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #95)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 95
+    },
+    {
+      "question": "What type is Pikachu? (legend #96)",
+      "options": [
+        "Electric",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "answer": "Electric",
+      "so_no": 96
+    },
+    {
+      "question": "Who evolves into Charizard? (legend #97)",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pidgey"
+      ],
+      "answer": "Charmander",
+      "so_no": 97
+    },
+    {
+      "question": "Which Pokémon is Water type? (legend #98)",
+      "options": [
+        "Squirtle",
+        "Charmander",
+        "Pikachu",
+        "Eevee"
+      ],
+      "answer": "Squirtle",
+      "so_no": 98
+    },
+    {
+      "question": "Who is Ash's main Pokémon? (legend #99)",
+      "options": [
+        "Pikachu",
+        "Snorlax",
+        "Charizard",
+        "Bulbasaur"
+      ],
+      "answer": "Pikachu",
+      "so_no": 99
+    },
+    {
+      "question": "Which Pokémon uses Thunderbolt? (legend #100)",
+      "options": [
+        "Pikachu",
+        "Raichu",
+        "Electabuzz",
+        "Jolteon"
+      ],
+      "answer": "Pikachu",
+      "so_no": 100
+    }
+  ]
+}
